@@ -1,6 +1,5 @@
-## Building Instagram from Scratch Using React, Tailwind CSS, Firebase (11+ Hour Tutorial Here: https://youtu.be/AKeaaa8yAAk)
+## Building Instagram from Scratch Using React, Tailwind CSS, Firebase 
 
-💰 Extended paid version here (3 hours 30 mins extra): https://gum.co/react-instagram-clone
 
 ## 📣 Summary
 
@@ -12,8 +11,3 @@ I used Tailwind CSS for this project and I really enjoyed using it. I used style
 
 If you're interested in the paid version of this course which includes making this application responsive and testing via React Testing Library and Cypress, you can find that here: https://gum.co/react-instagram-clone - a purchase shows your appreciation and allows me to spend more time making videos 🙌
 
-## 🎥 Subscribe
-
-Subscribe to my YouTube channel here: http://bit.ly/CognitiveSurge where I build projects like this! And don't forget, you can contribute to this project (highly encouraged!).
-
-![Preview](instagram-preview.png?raw=true)
